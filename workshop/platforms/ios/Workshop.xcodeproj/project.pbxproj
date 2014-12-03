@@ -43,6 +43,8 @@
 		88386E0D61784EAA817A2B06 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 50BD1F43EFF044D29BFACFA3 /* CDVNotification.bundle */; };
 		BD4FB8B8800D46C6A4241136 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2ECFB298AA3A4D22991B0D46 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		A9D8CFAA531242678757D06D /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 993E77F334A14252B2363CEE /* CDVStatusBar.m */; };
+		6B9B7210931A4F14AB6979B4 /* CDVLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE8EB5885794065A3339383 /* CDVLocation.m */; };
+		8FDB2AE4D15F49C481C2E3C5 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABA648BA26D463BB6930D98 /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +118,9 @@
 		2ECFB298AA3A4D22991B0D46 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		993E77F334A14252B2363CEE /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "org.apache.cordova.statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		781F65A690B94539B027DD24 /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "org.apache.cordova.statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		3EE8EB5885794065A3339383 /* CDVLocation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVLocation.m"; path = "org.apache.cordova.geolocation/CDVLocation.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		01D4C95F1C9B4C829E53944B /* CDVLocation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVLocation.h"; path = "org.apache.cordova.geolocation/CDVLocation.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		7ABA648BA26D463BB6930D98 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreLocation.framework"; path = "System/Library/Frameworks/CoreLocation.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +133,7 @@
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
 				BD4FB8B8800D46C6A4241136 /* AudioToolbox.framework in Frameworks */,
+				8FDB2AE4D15F49C481C2E3C5 /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +228,7 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 				305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */,
 				2ECFB298AA3A4D22991B0D46 /* AudioToolbox.framework */,
+				7ABA648BA26D463BB6930D98 /* CoreLocation.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -245,6 +252,8 @@
 				BC16F87091C4429B84B79811 /* CDVNotification.h */,
 				993E77F334A14252B2363CEE /* CDVStatusBar.m */,
 				781F65A690B94539B027DD24 /* CDVStatusBar.h */,
+				3EE8EB5885794065A3339383 /* CDVLocation.m */,
+				01D4C95F1C9B4C829E53944B /* CDVLocation.h */,
 			);
 			name = Plugins;
 			path = "Workshop/Plugins";
@@ -444,6 +453,7 @@
 				EF486EBB2CD94F1F84BB3BA9 /* CDVLogger.m in Sources */,
 				39250DFAC3884DF9899947D2 /* CDVNotification.m in Sources */,
 				A9D8CFAA531242678757D06D /* CDVStatusBar.m in Sources */,
+				6B9B7210931A4F14AB6979B4 /* CDVLocation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

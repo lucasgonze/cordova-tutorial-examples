@@ -199,3 +199,58 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-12-02 19:09:37.411 Workshop[20611:911731] [CDVTimer][TotalPluginStartup] 52.583992ms
 2014-12-02 19:09:37.544 Workshop[20611:911731] Resetting plugins due to page load.
 2014-12-02 19:09:37.683 Workshop[20611:911731] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/BBD9FEC8-3688-4B54-930B-5D86C091079F/Workshop.app/www/index.html
+2014-12-02 19:21:18.399 Workshop[20960:917086] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/B04780DD-E0DA-40CA-8FD4-0E825FB4FE9D/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:21:18.715 Workshop[20960:917086] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:21:18.716 Workshop[20960:917086] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:21:18.724 Workshop[20960:917086] Unlimited access to network resources
+2014-12-02 19:21:18.727 Workshop[20960:917086] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:21:19.065 Workshop[20960:917086] [CDVTimer][statusbar] 76.623023ms
+2014-12-02 19:21:19.066 Workshop[20960:917086] [CDVTimer][TotalPluginStartup] 76.853991ms
+2014-12-02 19:21:19.256 Workshop[20960:917086] Resetting plugins due to page load.
+2014-12-02 19:21:19.404 Workshop[20960:917086] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/1F23E12B-1D63-48D4-8CB5-C6496A62D3DD/Workshop.app/www/index.html
+2014-12-02 19:21:44.864 Workshop[21264:917812] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/11FE466F-744C-4A03-B257-E55712B78017/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:21:44.975 Workshop[21264:917812] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:21:44.976 Workshop[21264:917812] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:21:44.984 Workshop[21264:917812] Unlimited access to network resources
+2014-12-02 19:21:44.988 Workshop[21264:917812] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:21:45.378 Workshop[21264:917812] [CDVTimer][statusbar] 67.697048ms
+2014-12-02 19:21:45.379 Workshop[21264:917812] [CDVTimer][TotalPluginStartup] 67.901015ms
+2014-12-02 19:21:45.501 Workshop[21264:917812] Resetting plugins due to page load.
+2014-12-02 19:21:45.629 Workshop[21264:917812] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/6A6A43C4-A33E-412F-B356-5497D4564A16/Workshop.app/www/index.html
+2014-12-02 19:22:38.842 Workshop[21264:917812] THREAD WARNING: ['Geolocation'] took '60.543945' ms. Plugin should use a background thread.
+2014-12-02 19:22:42.786 Workshop[21264:917812] locationManager::didFailWithError (null)
+2014-12-02 19:22:42.858 Workshop[21264:917812] THREAD WARNING: ['Notification'] took '56.702881' ms. Plugin should use a background thread.
+2014-12-02 19:25:11.380 Workshop[21264:917812] locationManager::didFailWithError (null)
+2014-12-02 19:25:11.462 Workshop[21264:917812] THREAD WARNING: ['Notification'] took '16.833008' ms. Plugin should use a background thread.
+2014-12-02 19:27:24.501 Workshop[21264:919113] Terminating since there is no system app.
+2014-12-02 19:27:44.567 Workshop[21615:920060] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/994FC784-F766-4816-B171-F51E04734F98/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:27:44.671 Workshop[21615:920060] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:27:44.671 Workshop[21615:920060] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:27:44.679 Workshop[21615:920060] Unlimited access to network resources
+2014-12-02 19:27:44.682 Workshop[21615:920060] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:27:45.004 Workshop[21615:920060] [CDVTimer][statusbar] 38.448036ms
+2014-12-02 19:27:45.004 Workshop[21615:920060] [CDVTimer][TotalPluginStartup] 38.693011ms
+2014-12-02 19:27:45.104 Workshop[21615:920060] Resetting plugins due to page load.
+2014-12-02 19:27:45.257 Workshop[21615:920060] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/73A0CD89-1414-4A63-B5D8-A9183DEFD2F6/Workshop.app/www/index.html
+2014-12-02 19:27:57.639 Workshop[21615:920060] locationManager::didFailWithError (null)
+2014-12-02 19:27:57.676 Workshop[21615:920060] THREAD WARNING: ['Notification'] took '31.994873' ms. Plugin should use a background thread.
+2014-12-02 19:28:03.110 Workshop[21615:920060] locationManager::didFailWithError (null)
+2014-12-02 19:28:03.158 Workshop[21615:920060] THREAD WARNING: ['Notification'] took '15.475098' ms. Plugin should use a background thread.
