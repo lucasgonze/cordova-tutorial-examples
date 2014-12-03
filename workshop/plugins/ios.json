@@ -39,6 +39,14 @@
                         {
                             "xml": "<feature name=\"Contacts\"><param name=\"ios-package\" value=\"CDVContacts\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Camera\"><param name=\"ios-package\" value=\"CDVCamera\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference name=\"CameraUsesGeolocation\" value=\"false\" />",
+                            "count": 1
                         }
                     ]
                 }
@@ -54,7 +62,7 @@
                     "CoreLocation.framework": [
                         {
                             "xml": "false",
-                            "count": 1
+                            "count": 2
                         }
                     ],
                     "AddressBook.framework": [
@@ -72,6 +80,24 @@
                     "CoreGraphics.framework": [
                         {
                             "xml": "false",
+                            "count": 3
+                        }
+                    ],
+                    "ImageIO.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "AssetsLibrary.framework": [
+                        {
+                            "xml": "false",
+                            "count": 1
+                        }
+                    ],
+                    "MobileCoreServices.framework": [
+                        {
+                            "xml": "false",
                             "count": 1
                         }
                     ]
@@ -82,7 +108,7 @@
                     "NSLocationWhenInUseUsageDescription": [
                         {
                             "xml": "<string />",
-                            "count": 1
+                            "count": 2
                         }
                     ]
                 }
@@ -106,6 +132,9 @@
             "PACKAGE_NAME": "com.yourname.workshop"
         },
         "org.apache.cordova.contacts": {
+            "PACKAGE_NAME": "com.yourname.workshop"
+        },
+        "org.apache.cordova.camera": {
             "PACKAGE_NAME": "com.yourname.workshop"
         }
     },
