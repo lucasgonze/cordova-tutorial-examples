@@ -2,13 +2,14 @@
 (function () {
 
     /* ---------------------------------- Local Variables ---------------------------------- */
-	var homeTpl = Handlebars.compile($("#home-tpl").html());
-	var employeeListTpl = Handlebars.compile($("#employee-list-tpl").html());
+	HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
+	EmployeeListView.prototype.template = 
+	            Handlebars.compile($("#employee-list-tpl").html());
 	var service = new EmployeeService();
 	service.initialize().done(function () {
-	    renderHomeView();
+	    $('body').html(new HomeView(service).render().$el);
 	});
-	
+		
     /* --------------------------------- Event Registration -------------------------------- */
 	document.addEventListener('deviceready', function () {
 		StatusBar.overlaysWebView( false );
