@@ -40,3 +40,42 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-12-02 18:11:39.055 Workshop[17157:839059] Resetting plugins due to page load.
 2014-12-02 18:11:39.164 Workshop[17157:839059] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/AF716FF4-A3AD-4544-A782-70F4607B7C08/Workshop.app/www/index.html
 2014-12-02 18:11:41.191 Workshop[17157:839059] THREAD WARNING: ['Notification'] took '47.150879' ms. Plugin should use a background thread.
+2014-12-02 18:14:19.029 Workshop[17450:842890] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/EBAC57A3-1A7E-48E4-B161-00428C40A706/Library/Cookies/Cookies.binarycookies
+2014-12-02 18:14:19.159 Workshop[17450:842890] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 18:14:19.160 Workshop[17450:842890] Multi-tasking -> Device: YES, App: YES
+2014-12-02 18:14:19.170 Workshop[17450:842890] Unlimited access to network resources
+2014-12-02 18:14:19.175 Workshop[17450:842890] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 18:14:19.697 Workshop[17450:842890] Resetting plugins due to page load.
+2014-12-02 18:14:19.851 Workshop[17450:842890] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/B3553998-707B-4100-9F32-FE9F62D14B1D/Workshop.app/www/index.html
+2014-12-02 18:14:37.641 Workshop[17729:843746] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/7495A258-112C-4176-AF4C-1A30EDC83FD5/Library/Cookies/Cookies.binarycookies
+2014-12-02 18:14:37.745 Workshop[17729:843746] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 18:14:37.745 Workshop[17729:843746] Multi-tasking -> Device: YES, App: YES
+2014-12-02 18:14:37.752 Workshop[17729:843746] Unlimited access to network resources
+2014-12-02 18:14:37.755 Workshop[17729:843746] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 18:14:38.157 Workshop[17729:843746] Resetting plugins due to page load.
+2014-12-02 18:14:38.252 Workshop[17729:843746] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/FD03EBD2-9218-4FBD-AFAB-241958583F47/Workshop.app/www/index.html
+2014-12-02 18:15:00.225 Workshop[18008:844716] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/26E40031-2F61-4EC7-BDC9-4AB1805285D2/Library/Cookies/Cookies.binarycookies
+2014-12-02 18:15:00.356 Workshop[18008:844716] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 18:15:00.357 Workshop[18008:844716] Multi-tasking -> Device: YES, App: YES
+2014-12-02 18:15:00.367 Workshop[18008:844716] Unlimited access to network resources
+2014-12-02 18:15:00.372 Workshop[18008:844716] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 18:15:00.753 Workshop[18008:844716] Resetting plugins due to page load.
+2014-12-02 18:15:00.847 Workshop[18008:844716] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/A3C89F40-09AE-49D9-A905-622854478D8F/Workshop.app/www/index.html
