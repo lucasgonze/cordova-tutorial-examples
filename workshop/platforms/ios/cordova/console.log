@@ -139,3 +139,63 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-12-02 18:51:48.003 Workshop[19403:890312] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/67B18592-9B8E-468F-AC57-74BBD537A4F6/Workshop.app/www/index.html
 2014-12-02 18:51:55.022 Workshop[19403:890312] Failed to load webpage with error: The URL can’t be shown
 2014-12-02 18:51:57.425 Workshop[19403:890312] Failed to load webpage with error: The URL can’t be shown
+2014-12-02 19:05:20.556 Workshop[19718:905347] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/91223EC2-C688-4A77-B070-FE55B221C15A/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:05:20.716 Workshop[19718:905347] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:05:20.716 Workshop[19718:905347] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:05:20.748 Workshop[19718:905347] Unlimited access to network resources
+2014-12-02 19:05:20.753 Workshop[19718:905347] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:05:21.662 Workshop[19718:905347] [CDVTimer][statusbar] 407.859981ms
+2014-12-02 19:05:21.662 Workshop[19718:905347] [CDVTimer][TotalPluginStartup] 408.086002ms
+2014-12-02 19:05:21.912 Workshop[19718:905347] Resetting plugins due to page load.
+2014-12-02 19:05:22.221 Workshop[19718:905347] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/58C0765C-1FBB-4665-B809-CAC42DD192B4/Workshop.app/www/index.html
+2014-12-02 19:06:29.280 Workshop[20010:907180] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/8D826F77-75DB-44B7-A233-A8796BA79E26/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:06:29.405 Workshop[20010:907180] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:06:29.406 Workshop[20010:907180] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:06:29.414 Workshop[20010:907180] Unlimited access to network resources
+2014-12-02 19:06:29.418 Workshop[20010:907180] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:06:29.766 Workshop[20010:907180] [CDVTimer][statusbar] 59.036970ms
+2014-12-02 19:06:29.766 Workshop[20010:907180] [CDVTimer][TotalPluginStartup] 59.249043ms
+2014-12-02 19:06:29.958 Workshop[20010:907180] Resetting plugins due to page load.
+2014-12-02 19:06:30.100 Workshop[20010:907180] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/D4AD3408-A790-4BD9-A6C5-A5292F0A0646/Workshop.app/www/index.html
+2014-12-02 19:07:41.453 Workshop[20302:908758] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/F1010579-62EE-4F0D-93A5-F6D18FBC2EBE/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:07:41.609 Workshop[20302:908758] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:07:41.610 Workshop[20302:908758] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:07:41.619 Workshop[20302:908758] Unlimited access to network resources
+2014-12-02 19:07:41.622 Workshop[20302:908758] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:07:41.939 Workshop[20302:908758] [CDVTimer][statusbar] 26.054025ms
+2014-12-02 19:07:41.939 Workshop[20302:908758] [CDVTimer][TotalPluginStartup] 26.284993ms
+2014-12-02 19:07:42.069 Workshop[20302:908758] Resetting plugins due to page load.
+2014-12-02 19:07:42.227 Workshop[20302:908758] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/0FF3321F-3C53-4ECA-9A31-AA874AE52F37/Workshop.app/www/index.html
+2014-12-02 19:09:36.928 Workshop[20611:911731] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/703738E9-A415-477B-A3BB-60F03386AB13/Library/Cookies/Cookies.binarycookies
+2014-12-02 19:09:37.062 Workshop[20611:911731] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 19:09:37.063 Workshop[20611:911731] Multi-tasking -> Device: YES, App: YES
+2014-12-02 19:09:37.072 Workshop[20611:911731] Unlimited access to network resources
+2014-12-02 19:09:37.075 Workshop[20611:911731] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 19:09:37.410 Workshop[20611:911731] [CDVTimer][statusbar] 52.352011ms
+2014-12-02 19:09:37.411 Workshop[20611:911731] [CDVTimer][TotalPluginStartup] 52.583992ms
+2014-12-02 19:09:37.544 Workshop[20611:911731] Resetting plugins due to page load.
+2014-12-02 19:09:37.683 Workshop[20611:911731] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/BBD9FEC8-3688-4B54-930B-5D86C091079F/Workshop.app/www/index.html

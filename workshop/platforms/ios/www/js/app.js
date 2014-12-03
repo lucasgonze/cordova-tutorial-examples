@@ -2,6 +2,7 @@
 (function () {
 
     /* ---------------------------------- Local Variables ---------------------------------- */
+	var slider = new PageSlider($('body'));
 	HomeView.prototype.template = Handlebars.compile($("#home-tpl").html());
 	EmployeeListView.prototype.template = 
 	            Handlebars.compile($("#employee-list-tpl").html());
@@ -10,12 +11,12 @@
 
 	service.initialize().done(function () {
 	  router.addRoute('', function() {
-	      $('body').html(new HomeView(service).render().$el);
+		slider.slidePage(new HomeView(service).render().$el);
 	  });
 
 	  router.addRoute('employees/:id', function(id) {
 	      service.findById(parseInt(id)).done(function(employee) {
-	          $('body').html(new EmployeeView(employee).render().$el);
+			slider.slidePage(new EmployeeView(employee).render().$el);
 	      });
 	  });
 
