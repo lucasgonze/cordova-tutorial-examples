@@ -1,0 +1,13 @@
+2014-12-02 17:51:54.706 Workshop[16524:819039] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/EC95B167-2AA9-4B0B-81AD-A749F01E8147/Library/Cookies/Cookies.binarycookies
+2014-12-02 17:51:54.822 Workshop[16524:819039] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 17:51:54.822 Workshop[16524:819039] Multi-tasking -> Device: YES, App: YES
+2014-12-02 17:51:54.830 Workshop[16524:819039] Unlimited access to network resources
+2014-12-02 17:51:54.833 Workshop[16524:819039] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 17:51:55.324 Workshop[16524:819039] Resetting plugins due to page load.
+2014-12-02 17:51:55.462 Workshop[16524:819039] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/A9151444-B069-4D12-A827-02BE56F7ED5F/Workshop.app/www/index.html
