@@ -18,7 +18,8 @@
 	              'OK'        // buttonName
 	          );
 	      };
-	  }
+	  };
+      FastClick.attach(document.body);
 	}, false);
  
    $('.search-key').on('keyup', findByName);

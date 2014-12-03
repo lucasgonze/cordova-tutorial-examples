@@ -25,3 +25,18 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-12-02 18:06:09.910 Workshop[16835:831699] Resetting plugins due to page load.
 2014-12-02 18:06:10.017 Workshop[16835:831699] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/B7AFFC2F-F013-4002-93F7-304A6EC5A01E/Workshop.app/www/index.html
 2014-12-02 18:06:11.910 Workshop[16835:831699] THREAD WARNING: ['Notification'] took '112.640869' ms. Plugin should use a background thread.
+2014-12-02 18:11:32.050 Workshop[16835:831699] THREAD WARNING: ['Notification'] took '17.866943' ms. Plugin should use a background thread.
+2014-12-02 18:11:38.362 Workshop[17157:839059] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Data/Application/18A78D5A-0CCA-4789-9614-0476C5BAE92A/Library/Cookies/Cookies.binarycookies
+2014-12-02 18:11:38.474 Workshop[17157:839059] Apache Cordova native platform version 3.6.3 is starting.
+2014-12-02 18:11:38.475 Workshop[17157:839059] Multi-tasking -> Device: YES, App: YES
+2014-12-02 18:11:38.483 Workshop[17157:839059] Unlimited access to network resources
+2014-12-02 18:11:38.486 Workshop[17157:839059] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-12-02 18:11:39.055 Workshop[17157:839059] Resetting plugins due to page load.
+2014-12-02 18:11:39.164 Workshop[17157:839059] Finished load of: file:///Users/lucasgonze/Library/Developer/CoreSimulator/Devices/D107B44C-BE1E-4589-BCA2-C4934B696C00/data/Containers/Bundle/Application/AF716FF4-A3AD-4544-A782-70F4607B7C08/Workshop.app/www/index.html
+2014-12-02 18:11:41.191 Workshop[17157:839059] THREAD WARNING: ['Notification'] took '47.150879' ms. Plugin should use a background thread.
