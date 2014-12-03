@@ -28,15 +28,5 @@
 	}, false);
  
     /* ---------------------------------- Local Functions ---------------------------------- */
-	function findByName() {
-	    service.findByName($('.search-key').val()).done(function (employees) {
-	        $('.content').html(employeeListTpl(employees));
-	    });
-	}
-	
-	function renderHomeView() {
-	    $('body').html(homeTpl());
-	    $('.search-key').on('keyup', findByName);
-	}
 	
 }());
